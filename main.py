@@ -1,5 +1,3 @@
-from locale import currency
-
 from CurrencyConverter import CurrencyConverter, CurrencyPair, Currency
 
 if __name__ == '__main__':
